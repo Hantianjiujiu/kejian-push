@@ -1,7 +1,7 @@
 # 实务领导力 —— 让你拥有不怕失业的能力
 
 <p align="center">
-  <img src="weixin.png" width="260" alt="韩旭老师微信">
+  <img src="https://cdn.jsdelivr.net/gh/Hantianjiujiu/kejian-push@master/weixin.png" width="260" alt="韩旭老师微信" onerror="this.onerror=null;this.src='weixin.png'">
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ AI 时代，技术迭代越来越快，但有一项能力不会被替代——**
 ---
 
 <p align="center">
-  <img src="weixin.png" width="260" alt="韩旭老师微信">
+  <img src="https://cdn.jsdelivr.net/gh/Hantianjiujiu/kejian-push@master/weixin.png" width="260" alt="韩旭老师微信" onerror="this.onerror=null;this.src='weixin.png'">
 </p>
 
 <p align="center">
